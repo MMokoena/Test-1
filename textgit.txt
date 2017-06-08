@@ -1,2 +1,1 @@
-i am bored 
-and there is nothing to do 
+Hello World Part 2
